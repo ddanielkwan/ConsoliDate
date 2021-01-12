@@ -6,7 +6,7 @@ class ICS(Data):
    def __init__(self, title, Events):
        super().__init__(title, Events)
        
-   def writeICS(self):
+   def writeICS(self, path):
        calendar = Calendar()
        for event in self.Events:
             e = Event()
@@ -15,7 +15,7 @@ class ICS(Data):
             e.make_all_day()
             calendar.events.add(e)
             calendar.events
-       with open(self.title, 'w') as f:
+       with open(path +"/"+ self.title, 'w') as f:
             f.write(str(calendar))
        f.close()
-       return os.path.abspath(self.title + ".txt")
+       return os.path.abspath(path+"\\"+self.title)
