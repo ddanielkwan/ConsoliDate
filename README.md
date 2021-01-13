@@ -13,7 +13,7 @@ npm install
 ## Usage
 
 ```
-**Update This**
+This software is used for converting your pdf files which have dates and assessments on them (such as a course outline) into an .ics file which can be imported to a calendar of your choice.
 ```
 
 ## Contributing
