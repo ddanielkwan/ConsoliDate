@@ -1,5 +1,9 @@
 # ConsoliDate
 
+
+
+## About
+
 ConsoliDate is an application being developed by Peter Poydenko, Shernan Javier, Naftal Ted, and Ricky Kong.
 
 ## Installation
@@ -13,7 +17,7 @@ npm install
 ## Usage
 
 ```
-**Update This**
+**Update This When close to finishing**
 ```
 
 ## Contributing
