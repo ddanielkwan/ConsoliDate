@@ -6,7 +6,7 @@ Created on Mon Sep 21 11:52:07 2020
 
 
 
-from controller.workflow import runExtraction
+from controller.workflowcli import runExtraction
 
 runExtraction()
 
