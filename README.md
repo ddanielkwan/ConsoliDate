@@ -8,7 +8,7 @@ ConsoliDate is an application being developed by Peter Poydenko, Shernan Javier,
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
+Use the package manager [pipenv](https://pypi.org/project/pipenv/) to install dependencies.
 
 ```bash
 pipenv install
