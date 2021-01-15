@@ -12,7 +12,7 @@ import os
 MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July',
 								  'August', 'September', 'October', 'November', 'December','Jan', 
 								  'Feb', 'Mar', 'Apr', 'Jul', "Jun", "Aug", "Sep", "Sept", "Oct", "Nov", "Dec"]
-ASSESSMENTS = ["Assignment", "Test", "quiz", "Quiz"]
+ASSESSMENTS = ["Assignment", "Test", "quiz", "Quiz", "Midterm"]
 
 
 def getText(filePath):

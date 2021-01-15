@@ -19,7 +19,11 @@ flask run
 ## Usage
 
 ```
+<<<<<<< HEAD
+This software is used for converting your pdf files which have dates and assessments on them (such as a course outline) into an .ics file which can be imported to a calendar of your choice.
+=======
 **Update This When close to finishing**
+>>>>>>> d1ac154e440f7c9b1caf7de381446fa39fd8ba28
 ```
 
 ## Contributing
