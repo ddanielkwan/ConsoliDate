@@ -11,7 +11,9 @@ ConsoliDate is an application being developed by Peter Poydenko, Shernan Javier,
 Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
 
 ```bash
-npm install
+pipenv install
+pipenv shell
+flask run
 ```
 
 ## Usage
